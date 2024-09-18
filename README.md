@@ -20,3 +20,7 @@
    - No seu navegador, acesse o endereço: [http://localhost/FitPass/AAP_SITE/](http://localhost/FitPass/AAP_SITE/).
    - Pronto! Agora você pode visualizar o nosso projeto.
 
+## Possíveis Próximos Passos
+
+- **Desenvolver a aplicação** para oferecer uma experiência personalizada a cada usuário.
+- **Incluir mais exercícios** e vídeos demonstrando como executá-los.
